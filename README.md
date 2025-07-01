@@ -11,6 +11,8 @@ The following can be seen as a Demo for the game, including main mechanics and f
 
 *insert Limworld art
 
+<br/><br/>
+
 **Enjoy!**
 
 <br/><br/>
