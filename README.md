@@ -16,7 +16,6 @@ The following can be seen as a Demo for the game, including main mechanics and f
 **Enjoy!**
 
 <br/><br/>
-<br/><br/>
 
 # How to Start Playing right away
 
@@ -28,7 +27,6 @@ Run this File:
 
 ```python title.py```
 
-<br/><br/>
 <br/><br/>
 
 # Author's Note
