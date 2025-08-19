@@ -1,6 +1,6 @@
-# AfterLife
+# AfterDeath
 
-AfterLife is a story-based **Adventure Game**, set in **Limworld**, a place for everyone seeking a second chance After Life. 
+AfterDeath is a story-based **Adventure Game**, set in **Limworld**, a place for everyone seeking a second chance **after death**. 
 
 *insert title screen screenshot
 
