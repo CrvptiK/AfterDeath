@@ -22,14 +22,14 @@ I also decided on using filler texts for most of the NPCs and enemies for now, f
 
 21/08/25
 
-Working: 
+Working
   - player movement
   - filler map generation
   - title screen
   - pause screen
   - buttons and hover effect
 
-Currently working on: 
+Currently working on
   - bug fixing title screen and pause screen interaction
   - bug fixing npc and enemy collision
   - bug fixing inventory screen
@@ -40,7 +40,7 @@ Currently working on:
 Future topics
   - interactable items in overworld
   - combat screen and combat system
-  - starting town and npc interaction
+  - starting town and npc forced dialogue
   - dialogue screen
   - adding art
   - adding sound
