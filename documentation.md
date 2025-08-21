@@ -44,3 +44,17 @@ Future topics
   - dialogue screen
   - adding art
   - adding sound
+
+
+
+
+
+
+
+
+## Sources 
+
+font: 
+Yoster Island Font by codeman38
+Website: 1001 Fonts
+[https://www.1001fonts.com/yoster-island-font.html]
