@@ -48,6 +48,24 @@ Future topics
 
 
 
+22/08/25
+
+Working
+  - collision fixed
+  - tilemap, dungeons improved
+  - added town map
+  - added headache over town room transitions
+
+Currently working on
+  - bug fixing title screen and pause screen interaction
+  - bug fixing inventory screen
+  - npc position adjustment, dungeon
+  - npc interaction
+  - bug fixing transition from dungeon to town
+
+Future topics
+  same same
+
 
 
 
