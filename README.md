@@ -27,6 +27,10 @@ Run this File:
 
 ```python title.py```
 
+use the following command in your terminal:
+
+```python -m game.main```
+
 <br/><br/>
 
 # Author's Note
