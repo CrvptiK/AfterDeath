@@ -23,9 +23,6 @@ Install required dependencies:
 
 ```pip install -r requirements.txt```
 
-Run this File:
-
-```python title.py```
 
 use the following command in your terminal:
 
