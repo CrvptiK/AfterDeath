@@ -67,9 +67,20 @@ Future topics
 
   same same
 
+23/08/25
 
+Working
+  - room transition to and in town fixed
+  - title and pause screen interaction fixed
 
+Currently working on
+  - bug fixing inventory screen
+  - npc position adjustment, dungeon
+  - npc interaction
 
+Future topics
+
+  you guessed it
 
 ## Sources 
 
