@@ -45,7 +45,7 @@ Future topics
   - adding art
   - adding sound
 
-
+<br>
 <br>
 
 22/08/25
@@ -67,6 +67,9 @@ Future topics
 
   same same
 
+<br>
+<br>
+
 23/08/25
 
 Working
@@ -81,6 +84,10 @@ Currently working on
 Future topics
 
   you guessed it
+
+<br>
+<br>
+<br>
 
 ## Sources 
 
