@@ -87,6 +87,23 @@ Future topics
 
 <br>
 <br>
+
+25/08/2025
+
+Working 
+  -npc and enemy interaction framework
+
+Currently working on 
+  -fixing up title and pause screen interaction again (yay, a new bug was found, i feel like im playing animal crossing)
+  -position adjustment
+  -still working on that inventory
+
+Future topics
+
+  this is getting ridiculous
+
+<br>
+<br>
 <br>
 
 ## Sources 
