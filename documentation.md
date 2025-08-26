@@ -104,6 +104,27 @@ Future topics
 
 <br>
 <br>
+
+26/08/25
+
+Working 
+  -added proper inventory
+  -fixed up handle event functions
+  -added outline for item placement
+
+Currently working on 
+  -still the title and pause screen interaction, vague idea about what to fix
+  -placing items for testing
+
+Future topics
+
+  -next up would be the dialogue on screen (dialogue_screen)
+  -after that combat
+  -then tie everything together
+  -and then the rest :')
+
+<br>
+<br>
 <br>
 
 ## Sources 
