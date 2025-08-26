@@ -131,7 +131,7 @@ Future topics
 
 font: 
 
-Yoster Island Font posted by codeman38
+#### Yoster Island Font posted by codeman38
 
 Website: 1001 Fonts
 
@@ -142,7 +142,7 @@ Website: 1001 Fonts
 
 music: 
 
-Danse Macabre by Saint Saens posted by Abydos_Music
+#### Danse Macabre by Saint Saens posted by Abydos_Music
 
 Website: pixabay
 
@@ -154,7 +154,7 @@ License:
 
 
 
-Mozart - Lacrimosa / Requiem in D minor - K. 626 (Music Box) posted by GregorQuendel
+#### Mozart - Lacrimosa / Requiem in D minor - K. 626 (Music Box) posted by GregorQuendel
 
 Website: pixabay
 
