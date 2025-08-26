@@ -91,12 +91,12 @@ Future topics
 25/08/2025
 
 Working 
-  -npc and enemy interaction framework
+  - npc and enemy interaction framework
 
 Currently working on 
-  -fixing up title and pause screen interaction again (yay, a new bug was found, i feel like im playing animal crossing)
-  -position adjustment
-  -still working on that inventory
+  - fixing up title and pause screen interaction again (yay, a new bug was found, i feel like im playing animal crossing)
+  - position adjustment
+  - still working on that inventory
 
 Future topics
 
@@ -108,20 +108,20 @@ Future topics
 26/08/25
 
 Working 
-  -added proper inventory
-  -fixed up handle event functions
-  -added outline for item placement
+  - added proper inventory
+  - fixed up handle event functions
+  - added outline for item placement
 
 Currently working on 
-  -still the title and pause screen interaction, vague idea about what to fix
-  -placing items for testing
+  - still the title and pause screen interaction, vague idea about what to fix
+  - placing items for testing
 
 Future topics
 
-  -next up would be the dialogue on screen (dialogue_screen)
-  -after that combat
-  -then tie everything together
-  -and then the rest :')
+  - next up would be the dialogue on screen (dialogue_screen)
+  - after that combat
+  - then tie everything together
+  - and then the rest :')
 
 <br>
 <br>
@@ -130,6 +130,19 @@ Future topics
 ## Sources 
 
 font: 
-Yoster Island Font by codeman38
+Yoster Island Font posted by codeman38
 Website: 1001 Fonts
 [https://www.1001fonts.com/yoster-island-font.html]
+
+music: 
+Danse Macabre by Saint Saens posted by Abydos_Music
+Website: pixabay
+[https://pixabay.com/music/modern-classical-danse-macabre-by-saint-saens-165958]
+License:
+[https://pixabay.com/service/terms]
+
+Mozart - Lacrimosa / Requiem in D minor - K. 626 (Music Box) posted by GregorQuendel
+Website: pixabay
+[https://pixabay.com/music/lullabies-mozart-lacrimosa-requiem-in-d-minor-k-626-music-box-216282]
+License:
+[https://pixabay.com/service/terms]
