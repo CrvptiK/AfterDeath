@@ -125,6 +125,22 @@ Future topics
 
 <br>
 <br>
+
+27/08/25
+
+Working 
+  - fixed title and pause screen interaction
+  - items functional
+
+Currently working on 
+  - dialogue screen
+
+Future topics
+
+same same
+
+<br>
+<br>
 <br>
 
 ## Sources 
