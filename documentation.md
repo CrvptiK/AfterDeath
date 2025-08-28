@@ -141,6 +141,20 @@ same same
 
 <br>
 <br>
+
+Working 
+  - nothing new, just fighting the screens
+
+Currently working on 
+  - getting the dialogue screen to work as intended
+
+Future topics
+
+not loosing my marbles
+
+
+<br>
+<br>
 <br>
 
 ## Sources 
