@@ -157,9 +157,21 @@ not loosing my marbles
 <br>
 <br>
 
-29 & 30/08/25
+29 - 02/09/25
 
 Loosing my marbles
+
+Working 
+  - finally fixed wiring and npc interaction through several hours of debugging work
+
+Currently working on 
+  - proper workings of dialogue screen
+  - dialogue field
+
+Future topics
+  - next up: combat wiring :')
+
+
 
 
 <br>
