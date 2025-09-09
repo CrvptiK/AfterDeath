@@ -18,6 +18,13 @@ After careful consideration of my goals for this game, I decided to rework the f
 
 I also decided on using filler texts for most of the NPCs and enemies for now, focusing on optimizing their behavior first and foremost. This will also be visible in some of the models used, a handful of which potentially remaining as filler models for the demo.
 
+<br>
+<br>
+
+Focusing on finishing the dungeon, optimzing wiring, ux and ui. Thus the town will remain as relatively empty (working tilemap but no npc and no boss interaction (though you can find the boss stats in the code)). 
+Both of these things might be projects for future learning. Some of my plans for this project, beyond the scope of what I can accomplish until the 15th include animated segments (cutscenes), an intro animation, a fully fleshed out boss interaction and puzzle aspect, before the boss fight and better graphics. 
+All of this is beyond my current capacity, which is why this is not what I will be focusing on until after handing in the project.
+
 ## Progress
 
 21/08/25
@@ -161,6 +168,11 @@ not loosing my marbles
 
 Loosing my marbles
 
+<br>
+<br>
+
+03/09/25
+
 Working 
   - finally fixed wiring and npc interaction through several hours of debugging work
 
@@ -171,7 +183,18 @@ Currently working on
 Future topics
   - next up: combat wiring :')
 
+<br>
+<br>
 
+04 - 09/09/25
+
+Working
+  - dialogue screen wiring and text fully functional
+  - combat system planned and first raw wiring successful
+
+Currently working on
+  - optimizing combat screen functionality
+  - dialogue field (text overlay on overworld screen)
 
 
 <br>
