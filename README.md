@@ -1,3 +1,5 @@
+As my final project for my university Tech Basics 1 course, I present:
+
 # AfterDeath
 
 AfterDeath is a story-based **Adventure Game**, set in **Limworld**, a place for everyone seeking a second chance **after death**. 
