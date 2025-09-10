@@ -228,6 +228,9 @@ Currently working on
 
 Future topics
   - last testings before uploading the (for now) final code
+
+Side Note 
+  - my clownery caused me to accidentally edit some file in my virtual environment (no idea which one) are rollback caused my entire repo to corrupt, i had to manually copy and paste every file from my history into a new repo, I am so tired of this omg, now it works again, but at what cost :'(
     
 
 
