@@ -12,6 +12,8 @@ Changes to the overall game and intentions will be noted in the following
 
 ## Changelog
 
+21/08/25
+
 title change, AfterLife → AfterDeath
 
 After careful consideration of my goals for this game, I decided to rework the future intended features of the game. Namely focusing more on the user experience in fights and the overworld. Thus I will simplify the inventory system. 
@@ -21,9 +23,18 @@ I also decided on using filler texts for most of the NPCs and enemies for now, f
 <br>
 <br>
 
+02/09/25
+
 Focusing on finishing the dungeon, optimzing wiring, ux and ui. Thus the town will remain as relatively empty (working tilemap but no npc and no boss interaction (though you can find the boss stats in the code)). 
 Both of these things might be projects for future learning. Some of my plans for this project, beyond the scope of what I can accomplish until the 15th include animated segments (cutscenes), an intro animation, a fully fleshed out boss interaction and puzzle aspect, before the boss fight and better graphics. 
 All of this is beyond my current capacity, which is why this is not what I will be focusing on until after handing in the project.
+
+<br>
+<br>
+
+10/09/25
+
+Whether this can be viewed as a full demo, as of handing this in as my final project, remains questionable. I am proud of all the things I managed to build into the system and looking at the complexity of the code, as well as the hours upon hours of bugfixing and rewriting this, I am quite certain that this is a more than suitable final project. I am also looking forward to expanding this code in the future to have a full and proper demo to show. My goals were ambitious but I do think my result is a great (maybe not full but still very good) delievery. Although I would have loved to have a full working, high quality UI, I also understand that this is nothing I should be focusing on too much right now. 
 
 ## Progress
 
@@ -191,10 +202,33 @@ Future topics
 Working
   - dialogue screen wiring and text fully functional
   - combat system planned and first raw wiring successful
+  - deck building screen planned and raw coded
+  - created player data
 
 Currently working on
   - optimizing combat screen functionality
   - dialogue field (text overlay on overworld screen)
+
+<br>
+<br>
+
+10/09/25
+
+Working
+  - added overworld overlay (dialogue field)
+  - fixed inventory screen issue
+  - fixed deck building screen
+  - fixed combat screen 
+
+Currently working on 
+  - adding game over screen (and state)
+  - revising deck builder and combat screen ui
+  - adding healing points in overworld
+  - adding images and music
+
+Future topics
+  - last testings before uploading the (for now) final code
+    
 
 
 <br>
@@ -205,11 +239,11 @@ Currently working on
 
 font: 
 
-#### Yoster Island Font posted by codeman38
+#### BoldPixels Font by Yuki Pixels
 
 Website: 1001 Fonts
 
-[https://www.1001fonts.com/yoster-island-font.html]
+[https://www.1001fonts.com/boldpixels-font.html]
 
 
 
