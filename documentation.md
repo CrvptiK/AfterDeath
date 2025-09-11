@@ -223,7 +223,6 @@ Working
 Currently working on 
   - adding game over screen (and state)
   - revising deck builder and combat screen ui
-  - adding healing points in overworld
   - adding images and music
 
 Future topics
@@ -231,7 +230,24 @@ Future topics
 
 Side Note 
   - my clownery caused me to accidentally edit some file in my virtual environment (no idea which one) and rollback caused my entire repo to corrupt, i had to manually copy and paste every file from my history into a new repo, I am so tired of this omg, now it works again, but at what cost :'(
-    
+
+<br>
+<br>
+
+11/09/25
+
+Working
+  - optimized combat
+  - revised combat ui
+  - added title screen background
+  - optimized button ui
+  - added game over screen
+
+Currently working on 
+  - revising deck builder ui
+  - adding music
+  - potentially adding map visuals
+  - potentially adding dialogue screen art
 
 
 <br>
