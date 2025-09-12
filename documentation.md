@@ -36,6 +36,13 @@ All of this is beyond my current capacity, which is why this is not what I will 
 
 Whether this can be viewed as a full demo, as of handing this in as my final project, remains questionable. I am proud of all the things I managed to build into the system and looking at the complexity of the code, as well as the hours upon hours of bugfixing and rewriting this, I am quite certain that this is a more than suitable final project. I am also looking forward to expanding this code in the future to have a full and proper demo to show. My goals were ambitious but I do think my result is a great (maybe not full but still very good) delievery. Although I would have loved to have a full working, high quality UI, I also understand that this is nothing I should be focusing on too much right now. 
 
+<br>
+<br>
+
+12/09/25
+
+After working on this for at least 40 hours, I am very proud of what I accomplished. I started out without knowing how to create a simple map, now I have a code that automatically integrates images when they are named correctly. The game might now be visually stunning, but a few parts of the current UI do show its potential. Potential I will expand upon with time. I do hope nothing breaks while commiting everything. I will test it once as well. The map and overworld looks bland, but the item integration proves that the coding of it does not pose an issue. 
+
 ## Progress
 
 21/08/25
@@ -248,6 +255,17 @@ Currently working on
   - adding music
   - potentially adding map visuals
   - potentially adding dialogue screen art
+
+<br>
+<br>
+
+12/09/25
+
+Working: 
+  - optimized deck builder
+  - added music
+  - added visuals for dialogue, items, elements
+  - tested and seemingly ready to go
 
 
 <br>
