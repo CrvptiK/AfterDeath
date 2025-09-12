@@ -15,6 +15,7 @@ The following can be seen as a Demo for the game, including main mechanics and f
 
 ```pip install -r requirements.txt```
 
+- Suggested Interpreter Version: Python 3.10 (for pygame compatibility)
 
 - Download EVERY File (per hand or pull)
 
