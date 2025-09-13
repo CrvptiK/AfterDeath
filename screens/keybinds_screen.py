@@ -13,7 +13,7 @@ class KeybindsScreen:
         keybinds = [
             "Movement: Arrow Keys, WASD",
             "Interact: E",
-            "Dialogue Skip/Confirm: Space"
+            "Dialogue Skip/Confirm: Space",
             "Open Inventory: I",
             "Show Journal Info: J",
             "Pause: ESC",
@@ -35,3 +35,4 @@ class KeybindsScreen:
         screen.blit(title, rect)
 
         self.scrollable.draw(screen)
+
