@@ -4,7 +4,7 @@ As my final project for my university Tech Basics 1 course, I present:
 
 AfterDeath is a story-based **Adventure Game**, set in **Limworld**, a place for everyone seeking a second chance **after death**. 
 <br/><br/>
-[CrvptiK/AfterDeath/assets/images/title.png]
+![Title Image AfterDeath](https://github.com/CrvptiK/AfterDeath/blob/main/assets/images/title.PNG)
 <br/><br/>
 The game revolves around **you**, the Player, who just awoke in this strange new world, seeking out magical artifacts to somehow find their way back to **Primworld**. 
 The following can be seen as a Demo for the game, including main mechanics and functions, but only entailing the very first chapter of this story. 
