@@ -1,30 +1,52 @@
 import pygame
+from game.settings import TILE_SIZE, SCREEN_WIDTH, SCREEN_HEIGHT
 
+# player class, also lacking sprite option as of today
 class Player:
-    def __init__(self, x, y):
-        self.image = pygame.Surface((32, 32))
-        self.image.fill((0, 255, 0))
-        self.rect = self.image.get_rect(topleft=(x, y))
-        self.speed = 3
+    def __init__(self, x, y, speed=100):
+        self.rect = pygame.Rect(x, y, TILE_SIZE, TILE_SIZE)
+        self.speed = speed
+        self.color = (64, 224, 208) # turquoise (can you guess my fav colour?)
 
-    def handle_input(self, keys, obstacles):
-        dx = dy = 0
-        if keys[pygame.K_w]:
-            dy = -self.speed
-        if keys[pygame.K_s]:
-            dy = self.speed
-        if keys[pygame.K_a]:
-            dx = -self.speed
-        if keys[pygame.K_d]:
-            dx = self.speed
+# inputs
+    def handle_input(self, dt):
+        keys = pygame.key.get_pressed()
+        dx, dy = 0, 0
+        if keys[pygame.K_w] or keys[pygame.K_UP]:
+            dy = -self.speed * dt
+        if keys[pygame.K_s] or keys[pygame.K_DOWN]:
+            dy = self.speed * dt
+        if keys[pygame.K_a] or keys[pygame.K_LEFT]:
+            dx = -self.speed * dt
+        if keys[pygame.K_d] or keys[pygame.K_RIGHT]:
+            dx = self.speed * dt
+        return dx, dy
 
-        future_rect = self.rect.move(dx, 0)
-        if not any(future_rect.colliderect(obj.rect if hasattr(obj, "rect") else obj) for obj in obstacles):
-            self.rect.x += dx
+# check collisions
+    def update(self, dt, walls):
+        dx, dy = self.handle_input(dt)
 
-        future_rect = self.rect.move(0, dy)
-        if not any(future_rect.colliderect(obj.rect if hasattr(obj, "rect") else obj) for obj in obstacles):
-            self.rect.y += dy
+        self.rect.x += dx
+        for wall in walls:
+            if self.rect.colliderect(wall):
+                if dx > 0:
+                    self.rect.right = wall.left
+                elif dx < 0:
+                    self.rect.left = wall.right
 
-    def draw(self, surface):
-        surface.blit(self.image, self.rect)
+        self.rect.y += dy
+        for wall in walls:
+            if self.rect.colliderect(wall):
+                if dy > 0:
+                    self.rect.bottom = wall.top
+                elif dy < 0:
+                    self.rect.top = wall.bottom
+
+# clamping
+        self.rect.clamp_ip(pygame.Rect(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT))
+
+    def draw(self, screen):
+        pygame.draw.rect(screen, self.color, self.rect)
+
+
+
