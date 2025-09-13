@@ -43,6 +43,13 @@ Whether this can be viewed as a full demo, as of handing this in as my final pro
 
 After working on this for at least 40 hours, I am very proud of what I accomplished. I started out without knowing how to create a simple map, now I have a code that automatically integrates images when they are named correctly. The game might now be visually stunning, but a few parts of the current UI do show its potential. Potential I will expand upon with time. I do hope nothing breaks while commiting everything. I will test it once as well. The map and overworld looks bland, but the item integration proves that the coding of it does not pose an issue. 
 
+<br>
+<br>
+
+13/09/25
+
+Everything is locked, loaded and tested. I do hope everything works and I did not overlook any big issues. This concludes my final Log entry before due-date. 
+
 ## Progress
 
 21/08/25
